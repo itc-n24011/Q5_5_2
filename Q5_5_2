@@ -1,0 +1,2 @@
+s = {p for p in range(21) if p % 2 == 1}
+print(s)
